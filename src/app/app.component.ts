@@ -10,7 +10,7 @@ import { HomeService } from './core/services/home.services';
 })
 export class AppComponent {
   private router: Router;
-  staticURL: any = 'www.up.dnhighschool.ac.in';
+  staticURL: any = 'www.up.mgvidyalaya.ac.in';
   constructor(
     router: Router,
     private homeService: HomeService
